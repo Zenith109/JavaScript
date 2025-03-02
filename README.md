@@ -1,0 +1,1 @@
+This folder will hold some thing that you could add to you pages for effects 
